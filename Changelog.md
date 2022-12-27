@@ -1,7 +1,10 @@
 # Changelog
-All notable changes to this game will be documented in this file.
+All notable changes to Canvas Helper will be documented in this file.
 ## [Unreleased]
-- The window with text
-## [0.0.0] - 2022-12-27
+- Add: Wallpaper with multiple themes
+- Add: Sound(BGM)
+- Add: Move
+- Fix: Text may be out of the canvas
+## [1.0.0] - 2022-12-27
 ### Added
 - Main files
