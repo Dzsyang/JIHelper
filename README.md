@@ -3,8 +3,8 @@ Canvas Helper is an app to show the Canvas assignments on the desktop.
 ## Preview
 ## How to use
 ### 1. Install python3 and its library
-- If you haven't install python3, please log on https://www.python.org/ and install python3.
-- If you have install python3, please follow these steps:
+- If you haven't installed python3, please log on https://www.python.org/ and install python3.
+- If you have installed python3, please follow these steps:
   1. Use `win + R` and enter `cmd` to open Command Prompt.
   2. Enter `pip install pyautogui`.
   3. Enter `pip install ctypes`.
