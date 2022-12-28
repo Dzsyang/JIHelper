@@ -13,7 +13,7 @@ Canvas Helper is an app to show the Canvas assignments on the desktop.
   6. Enter `pip install playsound`.
 ### 2. Install CanvasHelper
 - You can find the latest version in `release`. (Now, the latest version is `2.0.0`)
-- Download `CanvasHelper.zip`.
+- Download `Sourse Code.zip`.
 - Extract it to folder.
 ### 3. Configure
 - Find `config.ini` file, and open it with `Notepad`.
