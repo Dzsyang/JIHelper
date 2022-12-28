@@ -7,10 +7,9 @@ Canvas Helper is an app to show the Canvas assignments on the desktop.
 - If you have installed python3, please follow these steps:
   1. Use `win + R` and enter `cmd` to open Command Prompt.
   2. Enter `pip install pyautogui`.
-  3. Enter `pip install ctypes`.
-  4. Enter `pip install requests`.
-  5. Enter `pip install configparser`.
-  6. Enter `pip install playsound`.
+  3. Enter `pip install requests`.
+  4. Enter `pip install configparser`.
+  5. Enter `pip install playsound`.
 ### 2. Install CanvasHelper
 - You can find the latest version in `release`. (Now, the latest version is `2.0.0`)
 - Download `Sourse Code.zip`.
