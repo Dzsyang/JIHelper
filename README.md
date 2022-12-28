@@ -1,7 +1,7 @@
 # Canvas Helper
 Canvas Helper is an app to show the Canvas assignments on the desktop.
 ## Preview
-![image](https://github.com/Dzsyang/Canvas_Helper/blob/main/Themes/Railgun/Tamplate.png）
+![image](https://github.com/Dzsyang/Canvas_Helper/blob/main/Themes/Railgun/Tamplate.png)
 ## How to use
 ### 1. Install python3 and its library
 - If you haven't installed python3, please log on https://www.python.org/ and install python3.
